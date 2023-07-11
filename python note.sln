@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "note1", "note1\note1.pyproj", "{D1AF8188-138B-4CF0-8E68-D6688792C7CF}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "note2", "note2\note2.pyproj", "{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}"
 EndProject
 Global
@@ -13,8 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D1AF8188-138B-4CF0-8E68-D6688792C7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1AF8188-138B-4CF0-8E68-D6688792C7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection

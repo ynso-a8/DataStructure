@@ -28,4 +28,3 @@ while True:
     if len(stack) != 0:
         ans = False
     print('yes' if ans else 'no')
-
