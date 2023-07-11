@@ -3,16 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "note2", "note2\note2.pyproj", "{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준 4949", "note2\백준 4949.pyproj", "{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준 1620", "백준 1620\백준 1620.pyproj", "{26D12B92-FF35-499E-8674-A5D2C104FAF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Release|x64.ActiveCfg = Release|Any CPU
+		{AE60D37F-78A5-4FF0-B96F-ABBAC1FB1279}.Release|x86.ActiveCfg = Release|Any CPU
+		{26D12B92-FF35-499E-8674-A5D2C104FAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D12B92-FF35-499E-8674-A5D2C104FAF9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{26D12B92-FF35-499E-8674-A5D2C104FAF9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26D12B92-FF35-499E-8674-A5D2C104FAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D12B92-FF35-499E-8674-A5D2C104FAF9}.Release|x64.ActiveCfg = Release|Any CPU
+		{26D12B92-FF35-499E-8674-A5D2C104FAF9}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
